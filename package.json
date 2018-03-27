@@ -8,13 +8,11 @@
   },
   "dependencies": {
     "discord.js": "11.1.0",
-      "request": "2.81.0"
-  },
- 
-  "name": "XXXXXXXX",
-  "version": "0.0.1-security",
-  "description": "security holding package",
-  "repository": "npm/security-holder"
+    "moment": "2.21.0",
+    "giphy-api": "1.2.7",
+    "eris": "0.8.5",
+    "fs": "0.0.1",
+    "request": "2.81.0"
+  }
+
 }
-}
-© 2018 GitHub, Inc.
