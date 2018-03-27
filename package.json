@@ -8,10 +8,13 @@
   },
   "dependencies": {
     "discord.js": "11.1.0",
-    "fs": "0.0.1-security"
-
-  
       "request": "2.81.0"
-  }
+  },
+  {
+  "name": "XXXXXXXX",
+  "version": "0.0.1-security",
+  "description": "security holding package",
+  "repository": "npm/security-holder"
+}
 }
 © 2018 GitHub, Inc.
